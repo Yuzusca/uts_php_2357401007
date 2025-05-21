@@ -1,0 +1,8 @@
+<?php
+$nim = "2357401007";
+$nama = "Yusuf Hidayat";
+
+for ($i = 1; $i <= 1000; $i++) {
+    echo "($i) $nim $nama<br>";
+}
+?>
